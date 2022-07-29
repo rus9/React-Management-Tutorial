@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+## Management System
+
+본 프로젝트는 React 강의 자료 시스템임..즐
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
